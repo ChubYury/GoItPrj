@@ -1,4 +1,4 @@
-#Gulp assembly
+#Start BanderGoose project
 
 - Download zip archive
 
